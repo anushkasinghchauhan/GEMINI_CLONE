@@ -8,9 +8,9 @@ A React-based conversational AI web app inspired by Google's Gemini, using the G
 [▶ Watch Demo Video](src/assets/Femini.mp4)
 
 <!-- If your markdown renderer supports HTML video tags (not on GitHub): -->
-<!--
+
 <video src="src/assets/Femini.mp4" controls width="600"></video>
--->
+
 
 ## Features
 
